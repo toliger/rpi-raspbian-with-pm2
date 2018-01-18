@@ -1,2 +1,3 @@
-# rpi-raspbian-with-pm2
-Raspbian with pm2
+# Raspbian with PM2
+
+NodeJS 9.x with pm2
